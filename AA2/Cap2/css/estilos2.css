@@ -1,0 +1,50 @@
+ /* selector {
+propiedad1: valor
+ propiedad2: valor 
+ }*/
+/* selector universal */
+
+
+.clasex{
+    border: 10px solid orange;
+}
+
+ /* elemnto o etiqueta */
+ nav{
+    background:green;   
+    border: 5px dotted orange ;
+ }
+
+h2{
+    background: rgb(126, 48, 48);
+}
+
+/* selector universal */
+*{
+    text-decoraton:underline;
+}
+
+
+
+/* selector de etiqueta//jerarquia */
+ .titulo{
+     text-align: center;
+     color: blanchedalmond;
+ }
+
+.😀{
+    color: blue;
+    font-size: 50px;
+}
+
+ /* selector de id//jerarquia */
+ #idsec{
+    
+ }
+/* font-style:italic */
+p{
+    color : blue;
+}
+
+
+
